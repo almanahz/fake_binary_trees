@@ -2503,5 +2503,4 @@ What are the average time complexities of those operations on a Binary Heap (one
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Cristian Pineda** - [Cristiand187](https://github.com/Cristiand187)
+** Abdulqudus Abdulsalam**
